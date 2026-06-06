@@ -1,0 +1,7 @@
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[user]
+	name = arminas
+	email = 1838790+arminas@users.noreply.github.com
+[url "ssh://git@github.com"]
+	insteadOf = https://github.com
